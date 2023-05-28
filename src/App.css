@@ -1,0 +1,14 @@
+.titleBar {
+  background-color: #000;
+  display: block;
+  color: #fff;
+  padding: 16px;
+}
+
+.inputField {
+  font-size: 18px;
+  margin-left: 12px;
+  margin-top: 12px;
+  padding: 1%;
+  width: 450px;
+}
